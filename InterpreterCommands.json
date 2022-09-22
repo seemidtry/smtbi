@@ -1,0 +1,37 @@
+{
+  "exit": {
+    "commandName": "exit",
+    "commandDescription": "quits the executor",
+    "commandHelpDescription": "Quit the executor",
+    "aliases": {
+      "1": "exit"
+    }
+  },
+  "minimize": {
+    "commandName": "minimize",
+    "commandDescription": "minimize to taskbar",
+    "commandHelpDescription": "Minimize the executor to taskbar",
+    "aliases": {
+      "1": "minimize",
+      "2": "mmize"
+    }
+  },
+  "help": {
+    "commandName": "help",
+    "commandDescription": "displays all the internal commands",
+    "commandHelpDescription": "Display the all internal commands",
+    "aliases": {
+      "1": "help"
+    }
+  },
+  "console": {
+    "commandName": "console",
+    "commandDescription": "displays command interpreter informantion",
+    "commandHelpDescription": "Display the interpreter informantion",
+    "aliases": {
+      "1": "console",
+      "2": "cons",
+      "3": "cipret"
+    }
+  }
+}
